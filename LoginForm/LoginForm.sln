@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginForm", "LoginForm\LoginForm.csproj", "{FDF58093-F457-4724-AD12-8E36A51DCA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF58093-F457-4724-AD12-8E36A51DCA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF58093-F457-4724-AD12-8E36A51DCA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF58093-F457-4724-AD12-8E36A51DCA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF58093-F457-4724-AD12-8E36A51DCA47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A445679-A28F-430C-B105-56B97480287D}
+	EndGlobalSection
+EndGlobal
